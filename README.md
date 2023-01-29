@@ -1,5 +1,5 @@
 # Svelte Material Symbols
-Small package for convenient usage [Google Material Symbols](https://fonts.google.com/icons).
+Small package for convenient usage [Google Material Symbols](https://fonts.google.com/icons) in your Svelte project.
 
 ## Installation
 
