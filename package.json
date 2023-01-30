@@ -7,7 +7,7 @@
     "url": "https://github.com/physphile"
   },
   "license": "MIT",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "peerDependencies": {
     "svelte": "^3.0.0"
   },
