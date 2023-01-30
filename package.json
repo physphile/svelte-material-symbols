@@ -1,6 +1,6 @@
 {
   "name": "svelte-material-symbols",
-  "description": "Svelte component for easy use of Google Material Symbols",
+  "description": "Svelte components for easy use of Google Material Symbols",
   "typings": "./typings",
   "author": {
     "name": "physphile",
@@ -8,8 +8,21 @@
     "url": "https://github.com/physphile"
   },
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "peerDependencies": {
     "svelte": "^3.0.0"
-  }
+  },
+  "repository": {
+    "url": "https://github.com/physphile/svelte-material-symbols"
+  },
+  "keywords": [
+    "material-symbols",
+    "material-design-symbols",
+    "material-icons",
+    "material-design-icons",
+    "material-design",
+    "icons",
+    "material",
+    "google"
+  ]
 }
