@@ -1,3 +1,3 @@
 import { SvelteComponent } from "svelte";
 
-export default class MaterialSymbol extends SvelteComponent {}
+export default class HeadLinks extends SvelteComponent {}
