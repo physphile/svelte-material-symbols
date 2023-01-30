@@ -1,7 +1,6 @@
 {
   "name": "svelte-material-symbols",
   "description": "Svelte components for easy use of Google Material Symbols",
-  "typings": "./typings",
   "author": {
     "name": "physphile",
     "email": "netsvetaev.mgn@gmail.com",
