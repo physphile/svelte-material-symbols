@@ -19,7 +19,7 @@ jobs:
       - run: npm ci
 
   publish:
-    needs: build
+    needs: install-deps
     runs-on: ubuntu-latest
     permissions:
       contents: read
